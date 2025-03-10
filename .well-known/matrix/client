@@ -1,0 +1,8 @@
+{
+"m.homeserver": {
+"base_url": "https://chat.soullessgingers.net/"
+},
+"org.matrix.msc3575.proxy": {
+"url": "https://chat.soullessgingers.net/"
+}
+}
